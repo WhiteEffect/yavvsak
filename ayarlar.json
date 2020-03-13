@@ -1,0 +1,23 @@
+{
+  "prefix": "a!",
+  "sahip": "686223643432321035",
+  "token": "Njg2Mjk2MTY0MTEwMzAzMjUy.Xmaawg.BiVaxrZ_sMgzf81eoAMU1uNtHrI",
+  "ownerID": "492989199809642516",
+    "rainbowgecikme": 1000,
+    "rainbowbaslamakomutu": "aç",
+    "rainbowdurdur": "kapat",
+    "rainbowrolleri": [
+        "#ff0000",
+        "#ff8400",
+        "#fdff00",
+        "#00ff66",
+        "#00acff",
+        "#ff0084"
+    ],
+    "bozukbolum": {
+        "yetkiyok": "Yetkiniz bu özelliği kullanabilmek için yetersizdir..",
+        "basarili": "İstediğin komut başarı ile uygulanmıştır. Renkli rol sistemi aktif.",
+        "rainbowdurdurmesaj": "İstediğin komut başarı ile uygulanmıştır. Renkli rol sistemi kapalı.",
+        "rolbulunamadi": "Aradığın rol yok."
+    }  
+}
